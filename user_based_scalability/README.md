@@ -112,7 +112,7 @@
 
 #### DB 다중화를 고려한 설계 
 
-<img src="img_4.png" width="350" height="360"/>
+<img src="img_4.png" width="450" height="460"/>
 
 - 동작 과정 
   - 사용자는 DNS로부터 LB의 Public IP 받기 
